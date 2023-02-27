@@ -1,7 +1,7 @@
 # RISC-V-RTL-Testbench-Design
 
 
-### 用Verilog 建立一個包含16個32位元數值的ROM，總共有32位元的位元寬度
+###   以16個 32bit ROM 模擬 RISC-V 32個 32-bit 指令(x0-x31)
 
 * code :
 
