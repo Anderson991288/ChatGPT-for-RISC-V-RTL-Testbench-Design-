@@ -10,25 +10,25 @@
 
 * testbench :
 
-![code4](https://user-images.githubusercontent.com/68816726/221587177-34d343f6-fe28-4c3f-a7fd-f7824063ab1c.png)
+![Screenshot 2023-02-27 231453](https://user-images.githubusercontent.com/68816726/221602649-42caf72d-18a4-4573-902d-682ee8d069ff.png)
+
 
 * Result :
 ```
-Address  0 contains data : xxxxxxxx
-Address  1 contains data : 00000001
-Address  2 contains data : 00000002
-Address  3 contains data : 00000003
-Address  4 contains data : 00000004
-Address  5 contains data : 00000005
-Address  6 contains data : 00000006
-Address  7 contains data : 00000007
-Address  8 contains data : 00000008
-Address  9 contains data : 00000009
-Address 10 contains data : 0000000a
-Address 11 contains data : 0000000b
-Address 12 contains data : 0000000c
-Address 13 contains data : 0000000d
-Address 14 contains data : 0000000e
-Address 15 contains data : 0000000f
-Address 16 contains data : 00000010
+Address  0 contains data : 00000001
+Address  1 contains data : 00000002
+Address  2 contains data : 00000003
+Address  3 contains data : 00000004
+Address  4 contains data : 00000005
+Address  5 contains data : 00000006
+Address  6 contains data : 00000007
+Address  7 contains data : 00000008
+Address  8 contains data : 00000009
+Address  9 contains data : 0000000a
+Address 10 contains data : 0000000b
+Address 11 contains data : 0000000c
+Address 12 contains data : 0000000d
+Address 13 contains data : 0000000e
+Address 14 contains data : 0000000f
+Address 15 contains data : 00000010
 ```
